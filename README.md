@@ -27,16 +27,6 @@
 <div align='left'>
 <ul>
 
-<li>
 <a href="https://linkedin.com/in/dannydxu1" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  dannydxu1-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
-</li>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-<div align="center">
-
-![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=dannydxu1&count_private=true&bg_color=00000000&rank_icon=github&hide=stars,issues)
-[![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=dannydxu1&show_icons=true&bg_color=00000000&layout=compact)](https://github.com/dannydxu1/github-readme-stats)
