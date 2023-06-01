@@ -6,10 +6,13 @@
 
 <br/>
 
-## **About me**
+## **About Me**
 <br>
 
-- A passionate, self-taught full-stack developer
+- A passionate full-stack developer
+- Sophomore at the University of Wisconsin-Madison, double major in Computer Science and Mathematics
+- Interested in Cognitive Science and Neural Networks
+- Actively seeking research positions
 - Personal website coming soon...
 - [Resume:](https://docs.google.com/document/d/1jpnjI0wA5ARTOGLZbLcNiUAbX0kasQvd/edit?usp=sharing&ouid=100777966932139776708&rtpof=true&sd=true)
 
