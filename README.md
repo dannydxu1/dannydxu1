@@ -13,7 +13,7 @@
 - Sophomore at the University of Wisconsin-Madison, double major in Computer Science and Mathematics
 - Interested in Cognitive Science and Neural Networks
 - Actively seeking research positions
-- Personal website coming soon...
+- Personal website: coming soon...
 - [Resume](https://docs.google.com/document/d/1jpnjI0wA5ARTOGLZbLcNiUAbX0kasQvd/edit?usp=sharing&ouid=100777966932139776708&rtpof=true&sd=true)
 <br/>
 
@@ -25,7 +25,6 @@
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
-<ul>
 
 <a href="https://linkedin.com/in/dannydxu1" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  dannydxu1-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
