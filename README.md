@@ -15,13 +15,11 @@
 - Actively seeking research positions
 - Personal website coming soon...
 - [Resume](https://docs.google.com/document/d/1jpnjI0wA5ARTOGLZbLcNiUAbX0kasQvd/edit?usp=sharing&ouid=100777966932139776708&rtpof=true&sd=true)
-
-Skills
 <br/>
 
-
+## **Skills**
 <br>
-
+<br/>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
