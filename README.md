@@ -6,7 +6,7 @@
 
 <br/>
 
-**About me**
+## **About me**
 <br>
 
 - A passionate, self-taught full-stack developer
