@@ -1,11 +1,10 @@
 <h1 align="center"><b>Hi , I'm Danny Xu </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## **About Me**
-- A passionate full-stack developer
+- A passionate full-stack [developer](https://dannydxu1.github.io/)
 - Sophomore at the University of Wisconsin-Madison, double major in Computer Science and Mathematics
 - Interested in Cognitive Science and Neural Networks
 - Actively seeking research positions
-- [Personal website](https://dannydxu1.github.io/)
 - [Resume](https://docs.google.com/document/d/1jpnjI0wA5ARTOGLZbLcNiUAbX0kasQvd/edit?usp=sharing&ouid=100777966932139776708&rtpof=true&sd=true)
 
 
