@@ -3,7 +3,6 @@
 ## **About Me**
 - Full Stack Developer
 - Sophomore at the University of Wisconsin-Madison, double major in Computer Science and Mathematics
-- Interested in Cognitive Science and Neural Networks
 - Check out my personal website! [https://www.ddxu.studio/](https://www.ddxu.studio/)
 
 
