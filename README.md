@@ -5,7 +5,7 @@
 - Sophomore at the University of Wisconsin-Madison, double major in Computer Science and Mathematics
 - Check out my personal website! [https://www.ddxu.studio/](https://www.ddxu.studio/)
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <div align='left'>
 
 <a href="https://linkedin.com/in/dannydxu1" target="_blank">
