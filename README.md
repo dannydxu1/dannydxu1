@@ -10,9 +10,7 @@
 
 <a href="https://linkedin.com/in/dannydxu1" target="_blank">
   <pre>
-```bash
 git clone <repository-url>
 cd <repository-name>
-```
 </pre>
 </a>
