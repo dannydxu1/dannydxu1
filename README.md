@@ -7,14 +7,14 @@
 - Check out my [personal website](https://www.ddxu.studio/)!
 
 ### Languages & Tools
-- TypeScript, Java, C#, Python, SQL, HTML/CSS, Swift, Azure DevOps, Power BI, Unix
+- TypeScript, Java, C#, Python, SQL, HTML/CSS, Swift, Azure DevOps, Power BI
 
 ### Frameworks
 - React JS, Next JS, Node JS, ASP.NET MVC, EF Core, SwiftUI
 
 ### Libraries
-- Pandas, NumPy, Matplotlib, TensorFlow, Scikit-learn, ChakraUI, TanStack Query, HighChartsJS
-- 
+- Pandas, NumPy, Matplotlib, TensorFlow, Scikit-learn, ChakraUI, TanStack
+  
 ## **Project: LeetRepeat**
 **Currently actively working on this [project](https://github.com/dannydxu1/LeetRepeat)!**
 
