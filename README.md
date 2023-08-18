@@ -14,4 +14,4 @@
 
 In this project, I'm building an app that functions similarly to Anki but focuses on LeetCode problems. The goal is to help users effectively learn and practice coding problems from LeetCode. The app uses a Next.js frontend with Next.js API Endpoints and utilizes a MongoDB database with Mongoose for data storage.
 
-Stay tuned for updates as I continue to develop and enhance the features of the LeetRepeat App! 🚀
+Stay tuned for updates as I continue to develop and enhance the features of LeetRepeat! 🚀
