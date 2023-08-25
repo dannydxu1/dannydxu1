@@ -2,7 +2,7 @@
 - Full Stack Software Engineer by day ☀️
 - Machine Learning Enthusiast by night 🌙
 - CS & Math Student @ UW-Madison 
-- Learn more on my [personal website](https://www.ddxu.studio/)! 
+- Learn more on my [personal website](https://www.ddxu.studio/)
 - Seeking 2024 Summer Internships, hire [me](https://www.ddxu.studio/resume/)
 
 ## Skills
