@@ -1,7 +1,6 @@
 ## **About Me**
-- Full Stack Software Engineer by day ☀️
-- Machine Learning Enthusiast by night 🌙
-- CS & Math Student @ UW-Madison 
+- Full Stack SWE ☀️
+- DL Enthusiast 🌙
 - [personal website](https://www.ddxu.studio/)
 - () -> {hire [me](https://www.ddxu.studio/resume/)}
 
