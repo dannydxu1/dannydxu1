@@ -3,7 +3,7 @@
 - Machine Learning Enthusiast by night 🌙
 - CS & Math Student @ UW-Madison 
 - Learn more on my [personal website](https://www.ddxu.studio/)
-- Seeking 2024 Summer Internships, hire [me](https://www.ddxu.studio/resume/)
+- () -> {hire [me](https://www.ddxu.studio/resume/)}
 
 ## Skills
 - **Languages & Tools**: TypeScript, Java, C#, Python, SQL, HTML/CSS, Swift, Azure DevOps, Power BI
