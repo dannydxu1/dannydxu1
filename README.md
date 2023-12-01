@@ -1,8 +1,6 @@
 ## **About Me**
-- Full Stack SWE ☀️
-- DL Enthusiast 🌙
-- [personal website](https://www.ddxu.studio/)
-- () -> {hire [me](https://www.ddxu.studio/resume/)}
+- Full Stack SWE
+- DL Enthusiast
 
 ## Skills
 - **Languages & Tools**: TypeScript, Java, C#, Python, SQL, HTML/CSS, Swift, Azure DevOps, Power BI
