@@ -15,5 +15,5 @@ As part of my interest in understanding programming languages, I'm developing a 
 ### 📫 How to Reach Me
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ddxu/) or send me an email at [ddxu@wisc.edu](mailto:ddxu@wisc.edu).
 
-### 💼 Looking for Spring/Summer 2025 Internships
+### 💼 Looking for Spring/Summer 2025 SWE Internships
 You can find out more about me on my [personal website](https://www.ddxu.dev/) or look at my [resume](https://www.ddxu.dev/resume).
