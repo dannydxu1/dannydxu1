@@ -3,7 +3,7 @@
 
 ### 🎓 Bio
 
-Welcome to my GitHub! I'm a Junior CS Student at UW-Madison & Intern at Apple
+Welcome to my GitHub! I'm a SWE intern at 🍎 and a 3rd year CS student at UW-Madison. Always interested in building.
 ### 🚀 Currently Building...
 
 #### 1. [pipelines.lol](https://pipelines.lol/) - [View Repo](https://github.com/pipelines-lol/pipelines)
@@ -15,6 +15,5 @@ As part of my interest in understanding programming languages, I'm developing a 
 ### 📫 How to Reach Me
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ddxu/) or send me an email at [ddxu@wisc.edu](mailto:ddxu@wisc.edu).
 
----
-
-Thank you for visiting my profile! 🌟
+### 💼 Looking for Spring/Summer 2025 Internships
+You can find out more about me on my [personal website](https://www.ddxu.dev/) or look at my [resume](https://www.ddxu.dev/resume).
