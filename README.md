@@ -3,8 +3,7 @@
 
 ### 🎓 Bio
 
-Welcome to my GitHub! I'm a 3rd year CS student at UW-Madison, an incoming SWE intern at Apple, with a previous SWE internship at a F500. Always interested in building.
-### 🚀 Currently Building...
+Welcome to my GitHub! I'm a 3rd year CS student at UW-Madison, an incoming SWE intern at Apple, with a previous SWE internship at a F500.
 
 #### 1. pipelines.lol - [View Website](https://pipelines.lol/) | [View Repo](https://github.com/pipelines-lol/pipelines)
 I'm building the backend (Express.js/MongoDB) for a startup aimed at democratizing tech career pipelines and trajectories.
