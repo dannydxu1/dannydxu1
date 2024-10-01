@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a Computer Science student at the University of Wisconsin-Madison with a passion for building impactful software solutions.
 
 ## 🚀 About Me
-* 🎓 Computer Science Student @ University of Wisconsin-Madison (Graduating May 2025)
+* 🎓 Computer Science Student @ University of Wisconsin-Madison (Graduating May 2026)
 * 🍎 Software Engineer Intern @ Apple (Feb 2024 - Aug 2024)
 * 🔌 Software Engineer Intern @ CommScope (May 2023 - Jan 2024)
 * 💻 Experienced in full-stack development and machine learnining.
